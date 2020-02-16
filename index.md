@@ -1,4 +1,4 @@
-#Overview of the Replication Package Content
+# Overview of the Replication Package Content
 
 <dl>
   <dt>RCLUV_Extractor</dt>
@@ -31,3 +31,15 @@
   
   <dt>ReadMe.txt</dt>
   </dl>
+  
+  # Replication of the Study
+  To make the performance of the developed models comparable with existing research we used the [WEKA][weka-link] machine learning tool. The \*.arff data files provided in *Eclipse\Eclipse_filename_bug_RCLUV\\* and *GitHub\GitHub_filename_bug_RCLUV\\* can can be used to train machine learning models in WEKA with the minimum effort.
+  
+  ## Hyperparameters
+  Below we present the hyperparameters that were used to develop the models.
+  
+  ### Eclipse
+  
+  [weka-link]https://www.cs.waikato.ac.nz/ml/weka/
+  
+  # Running the RCLUV Extractor
