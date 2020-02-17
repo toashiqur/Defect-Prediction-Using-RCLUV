@@ -98,7 +98,8 @@ end
 
 ### Large image
 
-![Bran](https://raw.github.com/toashiqur/Defect-Prediction-Using-RCLUV/blob/master/images/bran.png)
+![Brana](https://github.com/toashiqur/Defect-Prediction-Using-RCLUV/blob/master/assets/images/bran.png)
+![Branb](../images/bran.png)
 
 ### Definition lists can be used with HTML syntax.
 
