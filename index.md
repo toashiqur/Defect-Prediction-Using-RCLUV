@@ -30,7 +30,7 @@ merged Eclipse bug dataset</figcaption>
   <figcaption>Fig.4 - Hyperparameters used to develop models for the GitHub bug database</figcaption>
 </figure>
   
+  # Running the RCLUV Extractor
+  
   
   [weka-link]https://www.cs.waikato.ac.nz/ml/weka/
-  
-  # Running the RCLUV Extractor
