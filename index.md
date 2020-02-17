@@ -24,8 +24,8 @@
       <dt>GitHub_filename_bug_RCLUV</dt>
       <dd>It has thirty files- fifteen *_rcluv_bug.csv and fifteen *_rcluv_bug.arff files. These files have the column titles. The *_rcluv_bug*.csv files contain Project, Version, Class and isBuggy columns in addition to RCLUV elements of each source file. The *_rcluv_bug.arff files contain isBuggy and the RCLUV elements. </dd>
       <dt>GitHub_Results</dt>
-      It has eight files. For any particular classifier the *.all_models_avg.xlsx files contain the 10 fold cross validation results of 10 random undersampled subsets of the datasets. Compare_with_Toth.xlsx compares the performance of RCLUV-based models with product metrics-based models. Voting_performance.xlsx give the voting performance of the models. Individual vs Voting performance.xlsx compares the performance obtained using a single classifier and a voted classifier for each project.
-      <dd></dd>
+      <dd>It has eight files. For any particular classifier the *.all_models_avg.xlsx files contain the 10 fold cross validation results of 10 random undersampled subsets of the datasets. Compare_with_Toth.xlsx compares the performance of RCLUV-based models with product metrics-based models. Voting_performance.xlsx give the voting performance of the models. Individual vs Voting performance.xlsx compares the performance obtained using a single classifier and a voted classifier for each project.
+      </dd>
     </dl>
   </dd>
   
