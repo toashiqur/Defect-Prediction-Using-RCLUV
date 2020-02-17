@@ -98,7 +98,7 @@ end
 
 ### Large image
 
-![Branchingx](https://www.dropbox.com/s/3ooinb1ohkpergi/test2.png?dl=0)
+![Branchingt](https://github.com/toashiqur/Defect-Prediction-Using-RCLUV/blob/gh-pages/assets/images/bran.png)
 
 
 ### Definition lists can be used with HTML syntax.
