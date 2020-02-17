@@ -57,6 +57,10 @@ https://github.com/toashiqur/Defect-Prediction-Using-RCLUV/blob/gh-pages/images/
 ![alt text][logo]
 
 [logo]: https://github.com/toashiqur/Defect-Prediction-Using-RCLUV/blob/gh-pages/test.jpg "Logo Title Text 2"
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+Inline-style2: 
+![alt text](https://github.com/toashiqur/Defect-Prediction-Using-RCLUV/blob/gh-pages/test.jpg "Logo Title Text 1")
 
 
 # Running the RCLUV Extractor
