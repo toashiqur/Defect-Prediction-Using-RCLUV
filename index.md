@@ -62,7 +62,8 @@ Inline-style:
 Inline-style2: 
 (https://github.com/toashiqur/Defect-Prediction-Using-RCLUV/blob/gh-pages/test.jpg "Logo Title Text 1")
 
-![Branching1](https://github.com/toashiqur/Defect-Prediction-Using-RCLUV/blob/gh-pages/test.jpg)
+![Branching1](https://github.com/toashiqur/Defect-Prediction-Using-RCLUV/blob/gh-pages/images/test2.png)
+![Branching2](https://github.com/toashiqur/Defect-Prediction-Using-RCLUV/blob/gh-pages/images/hyper_param_training_time.png)
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 # Running the RCLUV Extractor
