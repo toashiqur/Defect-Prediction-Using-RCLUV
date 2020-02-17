@@ -56,7 +56,7 @@ https://github.com/toashiqur/Defect-Prediction-Using-RCLUV/blob/gh-pages/images/
 
 ![alt text][logo]
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+[logo]: https://github.com/toashiqur/Defect-Prediction-Using-RCLUV/blob/gh-pages/images/hyper_param_learning_curve.png "Logo Title Text 2"
 
 
 # Running the RCLUV Extractor
