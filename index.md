@@ -98,7 +98,7 @@ end
 
 ### Large image
 
-![Branching](https://github.com/toashiqur/Defect-Prediction-Using-RCLUV/blob/gh-pages/images/bran.png)
+![Branchingx](https://github.com/toashiqur/Defect-Prediction-Using-RCLUV/blob/gh-pages/images/bran.png)
 
 
 ### Definition lists can be used with HTML syntax.
