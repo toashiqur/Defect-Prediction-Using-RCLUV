@@ -40,29 +40,20 @@ To make the performance of the developed models comparable with existing researc
   Below we present the hyperparameters that were used to develop the models.
   
 ### Eclipse
-<html>
-<figure>
-  <img src="https://github.com/toashiqur/Defect-Prediction-Using-RCLUV/blob/gh-pages/images/hyper_param_learning_curve.png" alt="Hyperparameters of the models used to plot the learning curves for the Eclipse bug dataset" style="width:100%">
-  <figcaption>Fig.1 - Hyperparameters of the models used to plot the learning curves for the Eclipse bug dataset</figcaption>
-</figure> 
 
-<figure>
-  <img src="https://github.com/toashiqur/Defect-Prediction-Using-RCLUV/blob/gh-pages/images/hyper_param_training_time.png" alt="Hyperparameters of the models used to measure the training time for the
-merged Eclipse bug dataset" style="width:100%">
-  <figcaption>Fig.2 - Hyperparameters of the models used to measure the training time for the
-merged Eclipse bug dataset</figcaption>
-</figure>
+![alt text](https://github.com/toashiqur/Defect-Prediction-Using-RCLUV/blob/gh-pages/images/hyper_param_learning_curve.png "Hyperparameters of the models used to plot the learning curves for the Eclipse bug dataset")
+*Fig.1 - Hyperparameters of the models used to plot the learning curves for the Eclipse bug dataset*
 
-<figure>
-  <img src="https://github.com/toashiqur/Defect-Prediction-Using-RCLUV/blob/gh-pages/images/hyper_param_with_cost_eclipse.png" alt="Hyperparameters with cost matrix used to develop models for the Eclipse bug dataset" style="width:100%">
-  <figcaption>Fig.3 - Hyperparameters with cost matrix used to develop models for the Eclipse bug dataset</figcaption>
-</figure>
+![alt text](https://github.com/toashiqur/Defect-Prediction-Using-RCLUV/blob/gh-pages/images/hyper_param_training_time.png "Hyperparameters of the models used to measure the training time for the merged Eclipse bug dataset")
+*Fig.2 - Hyperparameters of the models used to measure the training time for the merged Eclipse bug dataset*
 
- <figure>
-  <img src="https://github.com/toashiqur/Defect-Prediction-Using-RCLUV/blob/gh-pages/images/hyper_param_with_cost_github.png" alt="Hyperparameters used to develop models for the GitHub bug database" style="width:100%">
-  <figcaption>Fig.4 - Hyperparameters used to develop models for the GitHub bug database</figcaption>
-</figure>
-</html>
+![alt text](https://github.com/toashiqur/Defect-Prediction-Using-RCLUV/blob/gh-pages/images/hyper_param_with_cost_eclipse.png "Hyperparameters with cost matrix used to develop models for the Eclipse bug dataset")
+*Fig.3 - Hyperparameters with cost matrix used to develop models for the Eclipse bug dataset*
+
+![alt text](https://github.com/toashiqur/Defect-Prediction-Using-RCLUV/blob/gh-pages/images/hyper_param_with_cost_github.png "Hyperparameters used to develop models for the GitHub bug database")
+*Fig.4 - Hyperparameters used to develop models for the GitHub bug database*
+
+
 
 # Running the RCLUV Extractor
 
