@@ -40,6 +40,7 @@ To make the performance of the developed models comparable with existing researc
   Below we present the hyperparameters that were used to develop the models.
   
 ### Eclipse
+<html>
 <figure>
   <img src="https://github.com/toashiqur/Defect-Prediction-Using-RCLUV/blob/gh-pages/images/hyper_param_learning_curve.png" alt="Hyperparameters of the models used to plot the learning curves for the Eclipse bug dataset" style="width:100%">
   <figcaption>Fig.1 - Hyperparameters of the models used to plot the learning curves for the Eclipse bug dataset</figcaption>
@@ -61,7 +62,7 @@ merged Eclipse bug dataset</figcaption>
   <img src="https://github.com/toashiqur/Defect-Prediction-Using-RCLUV/blob/gh-pages/images/hyper_param_with_cost_github.png" alt="Hyperparameters used to develop models for the GitHub bug database" style="width:100%">
   <figcaption>Fig.4 - Hyperparameters used to develop models for the GitHub bug database</figcaption>
 </figure>
-
+</html>
 
 # Running the RCLUV Extractor
 
