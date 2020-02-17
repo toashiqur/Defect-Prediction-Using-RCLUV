@@ -1,13 +1,11 @@
 # Overview of the Replication Package Content
 
+# Replication of the Study
+ 
+## Hyperparameters
   
-  # Replication of the Study
-  To make the performance of the developed models comparable with existing research we used the [WEKA][weka-link] machine learning tool. The \*.arff data files provided in *Eclipse\Eclipse_filename_bug_RCLUV\\* and *GitHub\GitHub_filename_bug_RCLUV\\* can can be used to train machine learning models in WEKA with the minimum effort.
   
-  ## Hyperparameters
-  Below we present the hyperparameters that were used to develop the models.
-  
-  ### Eclipse
+### Eclipse
    <figure>
   <img src="https://github.com/toashiqur/Defect-Prediction-Using-RCLUV/blob/gh-pages/images/hyper_param_learning_curve.png" alt="Hyperparameters of the models used to plot the learning curves for the Eclipse bug dataset" style="width:100%">
   <figcaption>Fig.1 - Hyperparameters of the models used to plot the learning curves for the Eclipse bug dataset</figcaption>
@@ -30,7 +28,7 @@ merged Eclipse bug dataset</figcaption>
   <figcaption>Fig.4 - Hyperparameters used to develop models for the GitHub bug database</figcaption>
 </figure>
   
-  # Running the RCLUV Extractor
+# Running the RCLUV Extractor
   
   
   [weka-link]https://www.cs.waikato.ac.nz/ml/weka/
