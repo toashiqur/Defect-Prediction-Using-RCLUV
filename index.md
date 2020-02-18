@@ -1,13 +1,3 @@
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-
-<!--- Black LinkedIn theme
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="toashiqur"><a class="LI-simple-link" href='https://ca.linkedin.com/in/toashiqur?trk=profile-badge'>Ashiqur Rahman</a></div>
-
---->
-
-<!--- White LinkedIn theme--->
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="toashiqur"><a class="LI-simple-link" href='https://ca.linkedin.com/in/toashiqur?trk=profile-badge'>Ashiqur Rahman</a></div>
-
 The replication package: **Defect Prediction Using RCLUV.7z** contains the bug datasets needed to replicate our study. It also has the RCLUV extractor for Java. The datasets were built from two existing benchmark bug datasets: the [Eclipse bug dataset][eclipse-link] and the [GitHub bug database][githubbug-link].
 
 The thesis is available for download from [qthesis][thesis-link]
