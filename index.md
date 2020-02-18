@@ -37,9 +37,6 @@ The thesis is available for download from [qthesis][thesis-link]
   </dl>
   </html>
   
-# Running the RCLUV Extractor
-The RCLUV extractor is written in [TXL][txl-link]. You need to have it installed on your machine.
-  
 # Replication of the Study
 In our [report][thesis-link] we published the performance of the models developed using the [WEKA][weka-link] machine learning tool. We used WEKA version 3.8. The \*.arff data files provided in *Eclipse\Eclipse_filename_bug_RCLUV\\* and *GitHub\GitHub_filename_bug_RCLUV\\* can be used to train machine learning models in WEKA with the minimum effort.
 
@@ -58,6 +55,9 @@ In our [report][thesis-link] we published the performance of the models develope
 
 ![]({{site.baseurl}}/assets/images/hyper_param_with_cost_github.png "Hyperparameters used to develop models for the GitHub bug database")
 *Table.4 - Hyperparameters used to develop models for the GitHub bug database*
+
+# Running the RCLUV Extractor
+The RCLUV extractor is written in [TXL][txl-link]. You need to have it installed on your machine.
 
 ## Feature Extraction
 The *RCLUVExtractor* directory contains a script **AnalyzeRCLUV.sh**. It takes a java directory name as its argument, and finds all the \*.java files from the given directory. After extracting the RCLUVs of the source files it generates a \*.RCLUVAnalysis.csv in the parent directory of the give project directory. The extractor writes any errors or warnings triggered during the feature extraction process to the result file. The AnalyzeRCLUV.sh script should be invoked using the following command.
