@@ -1,6 +1,6 @@
-The replication package: **Defect Prediction Using RCLUV.7z** contains the bug datasets needed to replicate our study. It also has the RCLUV extractor for Java. The datasets were built from two existing benchmark bug datasets: the Eclipse bug dataset (https://ieeexplore.ieee.org/abstract/document/4273265) and the GitHub bug database (https://link.springer.com/chapter/10.1007/978-3-319-42089-9_44).
+The replication package: **Defect Prediction Using RCLUV.7z** contains the bug datasets needed to replicate our study. It also has the RCLUV extractor for Java. The datasets were built from two existing benchmark bug datasets: the [Eclipse bug dataset][eclipse-link] and the [GitHub bug database][githubbug-link].
 
-The thesis is available for download from: (http://hdl.handle.net/1974/27517)
+The thesis is available for download from [qthesis][thesis-link]
 
 # Overview of the Replication Package Content
 <html>
@@ -84,7 +84,12 @@ rahman@MSI-GP62-6QF:~/Downloads/RCLUVExtractor$ txl -q -s 1000 examples/java/Pol
 ```
 It generates a titles.txt file inside the *RCLUVExtractor* directory.
 
+#Get in Touch:
+E-mail: toashiqur@gmail.com
+LinkedIn: www.linkedin.com/in/toashiqur
 
 [thesis-link]:http://hdl.handle.net/1974/27517
 [weka-link]:https://www.cs.waikato.ac.nz/ml/weka/
 [txl-link]:https://www.txl.ca/
+[eclipse-link]:https://ieeexplore.ieee.org/abstract/document/4273265
+[githubbug-link]:https://link.springer.com/chapter/10.1007/978-3-319-42089-9_44
